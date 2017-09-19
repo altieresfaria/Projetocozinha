@@ -1,0 +1,1594 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl 15_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  4.2
+illum 2
+map_Kd MarbleBeige0024_1_thumb.jpg
+#
+# Multi/Sub Material__197 (7) to come 
+#
+newmtl Material__36
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 03_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  8.4
+illum 2
+map_Kd MarbleGreen0012_1_S.jpg
+#
+newmtl Material__38
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__39
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__40
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__41
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+# Multi/Sub Material__197 done 
+#
+# Multi/Sub Material__80 (8) to come 
+#
+newmtl Material__58
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__59
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__60
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__61
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__62
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__63
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 08_-_Default
+Ka  0.3 0.3 0.2
+Kd  0.3 0.3 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.0
+illum 2
+#
+# Multi/Sub Material__80 done 
+#
+# Multi/Sub Material__96 (2) to come 
+#
+newmtl 08_-_Default
+Ka  0.3 0.3 0.2
+Kd  0.3 0.3 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+# Multi/Sub Material__96 done 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  25.0
+illum 2
+#
+newmtl 2_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  8.0
+illum 2
+#
+newmtl 1_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.7 0.7 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  5.2
+illum 2
+#
+newmtl 3_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+#
+newmtl 02_-_Default
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+# Multi/Sub Material__140 (2) to come 
+#
+newmtl 13_-_Default
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  23.1
+illum 2
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+# Multi/Sub Material__140 done 
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+# Multi/Sub Material__186 (9) to come 
+#
+newmtl Material__141
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__142
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__143
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__144
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__145
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__146
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  25.0
+illum 2
+#
+newmtl 13_-_Default
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  23.1
+illum 2
+#
+# Multi/Sub Material__186 done 
+#
+# Multi/Sub Material__261 (9) to come 
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+# Multi/Sub Material__261 done 
+#
+# Multi/Sub Material__307 (9) to come 
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+# Multi/Sub Material__307 done 
+#
+# Multi/Sub Material__353 (9) to come 
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+# Multi/Sub Material__353 done 
+#
+# Multi/Sub Material__431 (9) to come 
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.5
+illum 2
+map_Kd woodfine0011_thumb.jpg
+bump woodfine0011_thumb.jpg
+#
+# Multi/Sub Material__431 done 
+#
+# Multi/Sub Material__519 (7) to come 
+#
+newmtl 13_-_Default
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  23.1
+illum 2
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  25.0
+illum 2
+#
+newmtl Material__456
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__457
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__458
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__459
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+# Multi/Sub Material__519 done 
+#
+# Multi/Sub Material__453 (4) to come 
+#
+newmtl Material__432
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  25.0
+illum 2
+#
+newmtl Material__434
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+# Multi/Sub Material__453 done 
+#
+# Multi/Sub Material__554 (8) to come 
+#
+newmtl Material__521
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__522
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__523
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__524
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__525
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__526
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+newmtl 13_-_Default
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  23.1
+illum 2
+#
+# Multi/Sub Material__554 done 
+#
+newmtl 20_-_Default
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  7.8
+illum 2
+#
+newmtl Material__520
+Ka  0.7 0.8 0.4
+Kd  0.7 0.8 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.6
+illum 2
+map_Kd Undefined
+#
+newmtl 19_-_Default
+Ka  0.1 0.7 1.0
+Kd  0.1 0.7 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.8
+illum 2
+#
+# Multi/Sub Material__576 (4) to come 
+#
+newmtl Material__555
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__556
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 14_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+newmtl 21_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.7
+illum 2
+#
+# Multi/Sub Material__576 done 
+#
+newmtl Material__578
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd arroway.de_misc+cardboard+01_d100.jpg
+bump arroway.de_misc+cardboard+01_b002.jpg
+#
+# Multi/Sub Material__778 (21) to come 
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl mouse
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__778 done 
+#
+# Multi/Sub Material__184 (18) to come 
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl Material__15
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__44
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 0.0 0.0
+d  1.0
+Ns  8.7
+illum 2
+#
+newmtl Material__75
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 0.0 0.0
+d  1.0
+Ns  8.7
+illum 2
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl 07_-_Default
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+# Multi/Sub Material__184 done 
+#
+# Multi/Sub Material__978 (21) to come 
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl mouse2a
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse2a
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse2a
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse2a
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse2a
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse2a
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse2a
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse2a
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse2a
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse2a
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse2a
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse2a
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse2a
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse2a
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse2a
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__978 done 
+#
+# Multi/Sub mouse2b (18) to come 
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl Material__15
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl mouse2a
+Ka  1.0 0.7 0.6
+Kd  1.0 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__44
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 0.0 0.0
+d  1.0
+Ns  8.7
+illum 2
+#
+newmtl Material__75
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 0.0 0.0
+d  1.0
+Ns  8.7
+illum 2
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+newmtl mouse2
+Ka  0.6 0.4 0.1
+Kd  0.6 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd S_S_fur_2.jpg
+#
+# Multi/Sub mouse2b done 
+#
+newmtl 04_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd P-16-350.jpg
+bump p-16-350.jpg
+#
+# EOF

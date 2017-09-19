@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 571497e4b3f27ce4eae3b7191ccc4027
+timeCreated: 1505301925
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 01_-_Default
+    100002: 02_-_Default
+    100004: 04_-_Default
+    100006: 14_-_Default
+    100008: 15_-_Default
+    100010: 19_-_Default
+    100012: 1_-_Default
+    100014: 20_-_Default
+    100016: 2_-_Default
+    100018: 3_-_Default
+    100020: default
+    100022: //RootNode
+    100024: Material__140
+    100026: Material__184
+    100028: Material__186
+    100030: Material__197
+    100032: Material__261
+    100034: Material__307
+    100036: Material__353
+    100038: Material__431
+    100040: Material__453
+    100042: Material__519
+    100044: Material__520
+    100046: Material__554
+    100048: Material__576
+    100050: Material__578
+    100052: Material__778
+    100054: Material__80
+    100056: Material__96
+    100058: Material__978
+    100060: mouse2b
+    400000: 01_-_Default
+    400002: 02_-_Default
+    400004: 04_-_Default
+    400006: 14_-_Default
+    400008: 15_-_Default
+    400010: 19_-_Default
+    400012: 1_-_Default
+    400014: 20_-_Default
+    400016: 2_-_Default
+    400018: 3_-_Default
+    400020: default
+    400022: //RootNode
+    400024: Material__140
+    400026: Material__184
+    400028: Material__186
+    400030: Material__197
+    400032: Material__261
+    400034: Material__307
+    400036: Material__353
+    400038: Material__431
+    400040: Material__453
+    400042: Material__519
+    400044: Material__520
+    400046: Material__554
+    400048: Material__576
+    400050: Material__578
+    400052: Material__778
+    400054: Material__80
+    400056: Material__96
+    400058: Material__978
+    400060: mouse2b
+    2300000: 01_-_Default
+    2300002: 02_-_Default
+    2300004: 04_-_Default
+    2300006: 14_-_Default
+    2300008: 15_-_Default
+    2300010: 19_-_Default
+    2300012: 1_-_Default
+    2300014: 20_-_Default
+    2300016: 2_-_Default
+    2300018: 3_-_Default
+    2300020: default
+    2300022: Material__140
+    2300024: Material__184
+    2300026: Material__186
+    2300028: Material__197
+    2300030: Material__261
+    2300032: Material__307
+    2300034: Material__353
+    2300036: Material__431
+    2300038: Material__453
+    2300040: Material__519
+    2300042: Material__520
+    2300044: Material__554
+    2300046: Material__576
+    2300048: Material__578
+    2300050: Material__778
+    2300052: Material__80
+    2300054: Material__96
+    2300056: Material__978
+    2300058: mouse2b
+    3300000: 01_-_Default
+    3300002: 02_-_Default
+    3300004: 04_-_Default
+    3300006: 14_-_Default
+    3300008: 15_-_Default
+    3300010: 19_-_Default
+    3300012: 1_-_Default
+    3300014: 20_-_Default
+    3300016: 2_-_Default
+    3300018: 3_-_Default
+    3300020: default
+    3300022: Material__140
+    3300024: Material__184
+    3300026: Material__186
+    3300028: Material__197
+    3300030: Material__261
+    3300032: Material__307
+    3300034: Material__353
+    3300036: Material__431
+    3300038: Material__453
+    3300040: Material__519
+    3300042: Material__520
+    3300044: Material__554
+    3300046: Material__576
+    3300048: Material__578
+    3300050: Material__778
+    3300052: Material__80
+    3300054: Material__96
+    3300056: Material__978
+    3300058: mouse2b
+    4300000: 01_-_Default
+    4300002: 02_-_Default
+    4300004: 04_-_Default
+    4300006: 14_-_Default
+    4300008: 15_-_Default
+    4300010: 19_-_Default
+    4300012: 1_-_Default
+    4300014: 20_-_Default
+    4300016: 2_-_Default
+    4300018: 3_-_Default
+    4300020: default
+    4300022: Material__140
+    4300024: Material__184
+    4300026: Material__186
+    4300028: Material__197
+    4300030: Material__261
+    4300032: Material__307
+    4300034: Material__353
+    4300036: Material__431
+    4300038: Material__453
+    4300040: Material__519
+    4300042: Material__520
+    4300044: Material__554
+    4300046: Material__576
+    4300048: Material__578
+    4300050: Material__778
+    4300052: Material__80
+    4300054: Material__96
+    4300056: Material__978
+    4300058: mouse2b
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
